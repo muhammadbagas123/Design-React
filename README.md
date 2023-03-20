@@ -42,3 +42,4 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 ## APP
 
 <img src="https://github.com/muhammadbagas123/Design-React/blob/main/src/assets/images/Screenshot%20(149).png" width="400" alt="Laravel Logo">
+<p align="center"><img src="https://github.com/muhammadbagas123/Design-React/blob/main/src/assets/images/Screenshot%20(149).png" width="700" alt="Laravel Logo"></p>
