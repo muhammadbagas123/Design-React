@@ -1,0 +1,28 @@
+.myBG{
+    height: 100vh;
+    background: url("../assets/images/1.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.intro{
+    height: auto;
+
+    display: flex;
+    justify-content: end;
+    align-items: end;
+}
+
+#grid { 
+        height: 100vh;
+    height: 40%;
+    display: grid;
+    grid-template-rows: 3fr 3fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 2vw;
+    }
+  #grid > div {
+    font-size: 5vw;
+    padding: 1em;
+    background: gold;
+    text-align: center;
+  }
