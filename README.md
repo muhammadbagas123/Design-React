@@ -41,4 +41,4 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 ## APP
 
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="[https://github.com/muhammadbagas123/Monkeypox/blob/main/readmd/1-removebg-preview.png?raw=true](https://github.com/muhammadbagas123/Design-React/blob/main/src/assets/images/Screenshot%20(149).png)" width="400" alt="Laravel Logo"></a></p>
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://github.com/muhammadbagas123/Monkeypox/blob/main/readmd/1-removebg-preview.png?raw=true](https://github.com/muhammadbagas123/Design-React/blob/main/src/assets/images/Screenshot%20(149).png)" width="400" alt="Laravel Logo"></a></p>
